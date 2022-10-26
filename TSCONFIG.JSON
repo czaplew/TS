@@ -1,0 +1,2 @@
+outdir : "./dist" // folder wyjsciowy
+rootDir: "./src" // folder wejsciowy / nie trzeba 
